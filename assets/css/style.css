@@ -129,7 +129,7 @@ header nav a{
     height: 800px;
     max-width: 1440px;
     border-radius: 4px;
-
+    margin: 0 auto;
 }
 
 .banner-content{
