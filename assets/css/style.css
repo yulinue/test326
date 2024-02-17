@@ -115,18 +115,18 @@ header nav a{
 /* header */
 
 /* banner */
-.banner{
+/* .banner{ */
     /* background: url(../img/catalog/banner.png);
     background-size: cover; */
-    height: 600px;
-    max-width: 1440px;
+    /* height: 600px;
+    max-width: 1440px; */
     /* margin: 0 auto; */
-    border-radius: 4px;
-}
+    /* border-radius: 4px; */
+/* } */
 
 .bg{
     position: relative;
-    height: 600px;
+    height: 800px;
     max-width: 1440px;
     border-radius: 4px;
 
